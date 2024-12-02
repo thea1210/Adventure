@@ -8,3 +8,5 @@ This project demonstrates informed search algorithms, knowledge representation, 
 - open terminal
 - install the packages
 - python FINALmain.py
+
+This repoostory is developed for CSINTSY MCO2, the project demonstrates informed search algorithms, knowledge representation, and logic-based reasoning using Prolog.
